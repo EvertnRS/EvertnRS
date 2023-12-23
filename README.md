@@ -1,4 +1,4 @@
-<h1 aling="center">print("Oi, eu sou Everton!")!</h1> </p>
+<h1 aling="center">print("Oi, eu sou Everton!")</h1>
 
 <p align="left">
 📖 Eu sou estudante de Sistemas de Informações da <a href="https://upe.br">Universidade de Pernambuco</a> (UPE).
@@ -10,14 +10,16 @@
 
 <h2>Meus Contatos</h2>
 
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+<div> 
+  <a href = "mailto:evertnrs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-rodrigues-44582725a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <div style="display: inline_block">
   <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,17 +29,12 @@
   <img align="center" alt="Everton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Everton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
-<br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ##
 
 <h2>Meus Status</h2>
-
-[![EvertnRS](https://github-readme-stats.vercel.app/api?username=EvertnRS&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![EvertnRS](https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnRS&hide=html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=EvertnRS&theme=radical&show_icons=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnRS&layout=compact&theme=radical"/>
+</div>
