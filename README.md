@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-💡Estou aprendendo C no momento.
+💡Estou aprendendo Java no momento.
 </p>
 
 <h2>Meus Contatos</h2>
@@ -28,6 +28,7 @@
   <img align="center" alt="Everton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Everton-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Everton-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Everton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 
