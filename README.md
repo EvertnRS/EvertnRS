@@ -1,25 +1,20 @@
-<h1 aling="center">print("Oi, eu sou Everton!")</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63365C&height=120&section=header"/>
 
-<p align="left">
-📖 Eu sou estudante de Sistemas de Informações da <a href="https://upe.br">Universidade de Pernambuco</a> (UPE).
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B826A0&size=35&center=true&vCenter=true&width=1000&lines=<Olá,+sou+Everton!/>)](https://git.io/typing-svg)
+<p>
 
-<p align="left">
-💡Estou aprendendo Java no momento.
-</p>
 
-<h2>Meus Contatos</h2>
+<div align="center">
+ 
+   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=EvertnRS&show_icons=true&count_private=true&hide_border=true&title_color=7A388F&icon_color=8E357F&text_color=dedede&bg_color=0d1117" alt="EvertnRS github stats" /> 
+   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnRS&layout=compact&hide_border=true&title_color=7A388F&text_color=ededed&bg_color=0d1117" />
+  </div>
 
-<div> 
-  <a href = "mailto:evertnrs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/everton-rodrigues-44582725a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/EvertnRS/EvertnRS/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63365C&height=120&section=footer"/>
+
+
 
 <div style="display: inline_block">
   <img align="center" alt="Everton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,10 +27,11 @@
 </div>
 
 
-##
+<h2>Contatos</h2>
 
-<h2>Meus Status</h2>
-<div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=EvertnRS&theme=radical&show_icons=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvertnRS&layout=compact&theme=radical"/>
+<div> 
+  <a href = "mailto:evertnrs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/everton-rodrigues-44582725a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<hr>
