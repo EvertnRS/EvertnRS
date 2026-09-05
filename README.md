@@ -1,34 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63365C&height=120&section=header"/>
+<h1 align="center">Oi, eu sou EVerton Rodrigues</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B826A0&size=35&center=true&vCenter=true&width=1000&lines=<Olá,+sou+Everton!/>)](https://git.io/typing-svg)
-<p>
+<p align="center">
+  <em>Desenvolvedor Full Stack • Estudante de Sistemas de Informação • Pesquisador</em>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=63365C&height=120&section=footer"/>
+<p align="center">
+  Graduando em Sistemas de Informação pela Universidade de Pernambuco (UPE) com foco na construção de APIs e arquitetura de sistemas.
+</p>
 
-<h2>Principais Linguagens</h2>
+<p align="center">
+  <a href="mailto:evertnrs.contato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/everton-rodrigues-44582725a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-<div style="display: inline_block">
-  <img align="center" alt="Everton-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Everton-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Everton-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Everton-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Everton-Git" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Everton-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Everton-PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+## ✨ Sobre Mim
 
-<h2>Estudando</h2>
+- 🚀 Mais do que escrever código, gosto de projetar a estrutura das aplicações, transformando desafios complexos em soluções escaláveis.
+- 💻 Tenho experiência prática no desenvolvimento de integrações, automações e na construção de soluções robustas no Backend.
+- ⚙️ Atualmente, dedico meus estudos e projetos pessoais ao desenvolvimento de aplicações corporativas com **Java e Spring Boot**, além de APIs dinâmicas com **Node.js**.
+- 🔍 Movido pela curiosidade de entender a arquitetura de sistemas complexos, unindo engenharia de software e estruturação inteligente de dados.
 
-<div style="display: inline_block">
-  <img align="center" alt="Everton-Kotlin" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Everton-NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Everton-Docker" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-</div>
+## 🛠️ Tecnologias e Ferramentas
 
+### Backend & Frameworks
 
-<h2>Contatos</h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-<div> 
-  <a href = "mailto:evertnrs.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/everton-rodrigues-44582725a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white)
+
+### Bancos de Dados & Infraestrutura
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
