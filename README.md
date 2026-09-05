@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou EVerton Rodrigues</h1>
+<h1 align="center">Oi, eu sou Everton Rodrigues</h1>
 
 <p align="center">
   <em>Desenvolvedor Full Stack • Estudante de Sistemas de Informação • Pesquisador</em>
