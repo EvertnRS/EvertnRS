@@ -5,6 +5,14 @@
 </p>
 
 <p align="center">
+  <img 
+    src="https://github.com/EvertnRS/EvertnRS/blob/main/commit.gif" 
+    width="400px" 
+    alt="Animação de Terminal" 
+  />
+</p>
+
+<p align="center">
   Graduando em Sistemas de Informação pela Universidade de Pernambuco (UPE) com foco na construção de APIs e arquitetura de sistemas.
 </p>
 
